@@ -14,7 +14,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/divyanshu-kumar-sharma-789890235"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
-  <a href="https://divyanshukumarsharma.github.io/Portfolio-website/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge"></a>
 </p>
 
 I build the systems underneath a game: replicated gameplay abilities, reusable interaction frameworks, and editor tools that catch content problems before they ship. Most of my recent work is in Unreal Engine 5 with C++. I also work in Unity and C#, and I build small cloud projects when something in everyday life needs automating.
@@ -50,7 +49,6 @@ A serverless app built for the FIFA World Cup 2026 that makes an Echo Dot play a
 ### More
 
 - [**Hawktober Game Jam 2024**](https://github.com/DivyanshuKumarSharma/Hawktober_Game_Jam_2024): a Unity / C# game made for the Hawktober 2024 game jam.
-- [**Portfolio website**](https://github.com/DivyanshuKumarSharma/Portfolio-website): my personal site, built with HTML, CSS and JavaScript ([live site](https://divyanshukumarsharma.github.io/Portfolio-website/)).
 
 ---
 
@@ -65,4 +63,4 @@ A serverless app built for the FIFA World Cup 2026 that makes an Echo Dot play a
 
 ## Get in touch
 
-The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/divyanshu-kumar-sharma-789890235). You can also see more of my work on my [portfolio site](https://divyanshukumarsharma.github.io/Portfolio-website/).
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/divyanshu-kumar-sharma-789890235).
